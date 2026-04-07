@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Security
-  - Vulnerability Scanning
   - API Security
   - DAST
+  - Security
+  - Vulnerability Scanning
 created: '2025-01-08'
 modified: '2026-03-16'
 url: >-
@@ -26,8 +26,8 @@ apis:
       inventory of an organization's internal and external API assets.
     humanURL: https://www.invicti.com/support/invicti-api/
     tags:
-      - Security
       - API Security
+      - Security
       - Vulnerability Scanning
     properties:
       - type: Documentation
