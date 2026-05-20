@@ -35,6 +35,10 @@ apis:
       - type: GettingStarted
         url: https://www.invicti.com/support/api-discovery-overview/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Invicti-Security
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/invicti-security
   - type: Website
     url: https://www.invicti.com/
   - type: Documentation
