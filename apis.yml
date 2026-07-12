@@ -35,6 +35,14 @@ apis:
       - type: GettingStarted
         url: https://www.invicti.com/support/api-discovery-overview/
 common:
+  - type: TrustCenter
+    url: security/invicti-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/invicti-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/invicti-domain-security.yml
+  - url: https://www.invicti.com/blog/
+    type: Blog
   - type: GitHubOrganization
     url: https://github.com/Invicti-Security
   - type: LinkedIn
